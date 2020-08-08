@@ -1,2 +1,4 @@
-# lxlauncher-stuff
-My attempts at customizng LXLauncher from the LXDE project
+LXLauncher customizition attempts
+
+1-LxLauncher Red
+Red themed LXLauncher
